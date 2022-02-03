@@ -1,7 +1,4 @@
-package javaCompletoExecicios02;
-
-import java.util.Locale;
-import java.util.Scanner;
+package javacompletoexercicios02;
 
 public class exercicio07 {
     /*public static void main(String[] args) {

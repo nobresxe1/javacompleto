@@ -1,4 +1,6 @@
-package javacompletoexercicios02;
+package javacompletoexercicios04;
+
+import java.util.Scanner;
 
 public class exercicio01 {
    /* public static void main(String[] args) {
@@ -6,14 +8,14 @@ public class exercicio01 {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite um numero:");
-
         int x = sc.nextInt();
 
-        if ( x < 0){
-            System.out.println("NEGATIVO");
-        }else{
-            System.out.println("POSITIVO");
+        for ( int i = 1; i <= x; i++){
+            if (i % 2 != 0){
+                System.out.println(i);
+            }
         }
+
         sc.close();
     }*/
 }

@@ -1,4 +1,4 @@
-package javaCompletoExercicios;
+package javacompletoexercicios01;
 
 public class exercicio01 {
     /*

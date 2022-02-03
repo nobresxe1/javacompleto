@@ -1,6 +1,4 @@
-package javaCompletoExercicios;
-
-import java.util.Scanner;
+package javacompletoexercicios01;
 
 public class exercicio06 {
     /*public static void main(String[] args) {

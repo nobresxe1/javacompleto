@@ -1,8 +1,4 @@
-package javaCompletoExecicios02;
-
-import java.security.Principal;
-import java.util.Locale;
-import java.util.Scanner;
+package javacompletoexercicios02;
 
 public class exercicio05 {
     /*public static void main(String[] args) {
