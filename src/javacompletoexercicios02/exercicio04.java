@@ -1,7 +1,9 @@
 package javacompletoexercicios02;
 
+import java.util.Scanner;
+
 public class exercicio04 {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int hinicial, hfinal, duracao;
@@ -20,5 +22,5 @@ public class exercicio04 {
         System.out.println(" O JOGO DUROU " + duracao + " HORA(S)");
 
         sc.close();
-    }*/
+    }
 }

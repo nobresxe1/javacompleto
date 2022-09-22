@@ -1,4 +1,4 @@
-package exerciciopoo;
+package corse;
 
 public class lacosforeach {
     public static void main(String[] args) {

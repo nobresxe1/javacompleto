@@ -3,7 +3,7 @@ package javacompletoexercicios04;
 import java.util.Scanner;
 
 public class exercicio01 {
-   /* public static void main(String[] args) {
+   public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -17,5 +17,5 @@ public class exercicio01 {
         }
 
         sc.close();
-    }*/
+    }
 }
