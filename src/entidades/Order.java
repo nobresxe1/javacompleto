@@ -1,6 +1,7 @@
 package entidades;
 
 import entities.enums.OrderStatus;
+
 import java.util.Date;
 
 public class Order {
@@ -11,7 +12,7 @@ public class Order {
     public Order(){
     }
 
-    public Order(Interger id, Date moment, OrderStatusus status) {
+    public Order(int id, Date moment, OrderStatus status) {
         this.id = id;
         this.moment = moment;
         this.status = status;
